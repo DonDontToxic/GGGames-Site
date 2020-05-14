@@ -1,0 +1,10 @@
+{
+	"auth": {
+		"gggames2685be9d": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": [],
+			"customAuth": false
+		}
+	}
+}

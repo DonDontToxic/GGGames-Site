@@ -1,0 +1,20 @@
+{
+    "gggamesenv": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gggames-gggamesenv-132738-authRole",
+            "UnauthRoleArn": "arn:aws:iam::147000850017:role/amplify-gggames-gggamesenv-132738-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::147000850017:role/amplify-gggames-gggamesenv-132738-authRole",
+            "Region": "ap-southeast-1",
+            "DeploymentBucketName": "amplify-gggames-gggamesenv-132738-deployment",
+            "UnauthRoleName": "amplify-gggames-gggamesenv-132738-unauthRole",
+            "StackName": "amplify-gggames-gggamesenv-132738",
+            "StackId": "arn:aws:cloudformation:ap-southeast-1:147000850017:stack/amplify-gggames-gggamesenv-132738/2d4a4fc0-91be-11ea-bce7-02d60855aea4",
+            "AmplifyAppId": "d22ts0ywig3925"
+        },
+        "categories": {
+            "auth": {
+                "gggames2685be9d": {}
+            }
+        }
+    }
+}

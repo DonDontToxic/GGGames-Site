@@ -1,0 +1,8 @@
+{
+    "dbhost": "testdb1.ccb04kao6nyb.ap-southeast-1.rds.amazonaws.com",
+    "dbname":"gamedb",
+    "dbuser":"admin",
+    "dbpassword": "admin1234",
+    "aws_access_key_id": "AKIAIIASARHO54EMLTQQ",
+    "aws_secret_access_key": "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"
+  }
